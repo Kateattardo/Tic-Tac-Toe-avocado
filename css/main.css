@@ -1,3 +1,27 @@
 body {
-    background-color:yellow;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   font-family: "Poiret One, cursive", sans-serif;
+
+;
+height: 100vh;
+margin: 0;
+}
+header {
+    color:burlywood;
+    font-size: 6vmin;
+    letter-spacing: 2vmin;
+
+}
+h2 {
+    font-size: 5vmin;
+    color: lightgrey;
+}
+div {
+    border: 1px solid black;
+    height: 20px;
+    width: 20px;
+
+
 }
